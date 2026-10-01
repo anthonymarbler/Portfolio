@@ -1,0 +1,15 @@
+{
+  "name": "Arsenal 1886 Jacket",
+  "short_name": "Arsenal Jacket",
+  "description": "The 2025–26 Champions leather jacket, in 3D.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e9e7e1",
+  "theme_color": "#1b2233",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
